@@ -48,8 +48,8 @@ Andmestike ühendamine, unikaalsed ja mitmekordsed elemendid, andmete sorteerimi
 * Kodutöö II <!--[Kodutöö](praktikum4_kodutoo.md)-->
     * Tähtaeg:
 		* I rühm - TBA.
-    		* II rühm - TBA.
-      		* III rühm - TBA.
+		* II rühm - TBA.
+		* III rühm - TBA.
 		* Mikrokraadi rühm - TBA.
 
 ## Praktikum 5
@@ -74,8 +74,8 @@ Joonised `ggplot2`-ga jätkub - joonisele kihtide lisamine, skaalade muutmine, j
 * Kodutöö III <!--Kodutöö](praktikum6_kodutoo.md)-->
     * Tähtaeg:
 		* I rühm - TBA.
-    		* II rühm - TBA.
-      		* III rühm - TBA.
+		* II rühm - TBA.
+		* III rühm - TBA.
 		* Mikrokraadi rühm - TBA.
 
 ## Praktikum 7
@@ -97,8 +97,8 @@ Töötamine kuupäevadega ja sõnetöötlus paketiga `stringr`.
 * Kodutöö IV <!--[Kodutöö](praktikum8_kodutoo.md)-->
     * Tähtaeg:
 		* I rühm - TBA.
-    		* II rühm - TBA.
-      		* III rühm - TBA.
+		* II rühm - TBA.
+		* III rühm - TBA.
 		* Mikrokraadi rühm - TBA.
 	
 
@@ -123,8 +123,8 @@ Tulemuste vormistamine pakettidega `knitr` ja `rmarkdown`.
 * Kodutöö V <!--[Kodutöö](praktikum10_kodutoo.md)-->
     * Tähtaeg:
 		* I rühm - TBA.
-    		* II rühm - TBA.
-      		* III rühm - TBA.
+		* II rühm - TBA.
+		* III rühm - TBA.
 		* Mikrokraadi rühm - TBA.
 		
 		
