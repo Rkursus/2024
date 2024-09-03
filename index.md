@@ -83,21 +83,21 @@ Aine läbimiseks on vaja:
 
 * Praktikumid
 	* I rühm **teisipäeviti kell 16:15 ja neljapäeviti kell 08:15** (nädalad 1 - 5).
-	* rühm 2 **kolmapäeviti ja neljapäeviti kell 08:15** (nädalad 1 - 6).
- * III rühm **teisipäviti kell 16:15 ja neljapäeviti kell 08:15** (nädalad 9 - 13).
- * Mikrokraadi rühm **esmaspäeviti ja kolmapäeviti kell 16:15** (nädalad 1 - 6).
+ 	* Mikrokraadi rühm **esmaspäeviti ja kolmapäeviti kell 16:15** (nädalad 1 - 6). 
+	* II rühm **kolmapäeviti ja neljapäeviti kell 08:15** (nädalad 1 - 6).
+ 	* III rühm **teisipäviti kell 16:15 ja neljapäeviti kell 08:15** (nädalad 9 - 13).
 
 * **Projektide tähtaeg**:
 	* I rühm TBA.
+ 	* Mikrokraadi rühm TBA. 
  	* II rühm TBA.
   	* III rühm TBA.
-  	* Mikrokraadi rühm TBA.
 
 * **Projektide ettekandmine**:
 	* I rühm  TBA.
+ 	* Mikrokraadi rühm TBA.
  	* II rühm TBA.
   	* III rühm TBA.
-  	* Mikrokraadi rühm TBA.
 <br/>
 
 # Kontakt ja küsimused
