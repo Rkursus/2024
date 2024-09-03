@@ -24,8 +24,8 @@ Andmete importimine, väärtustetüübid ja teisendused, lisapakettide kasutamin
 * Kodutöö I <!-- [Kodutöö](praktikum2_kodutoo.md)-->
     * Tähtaeg:
 		* I rühm - TBA.
-    		* II rühm - TBA.
-      		* III rühm - TBA.
+		* II rühm - TBA.
+		* III rühm - TBA.
 		* Mikrokraadi rühm - TBA.
 
 
