@@ -79,25 +79,28 @@ Aine läbimiseks on vaja:
 
 # Tunniplaan
 
-Õppeaine toimub 2023/2024. õppeaasta sügissemestril. 
+Õppeaine toimub 2024/2025. õppeaasta sügissemestril. 
 
-* Praktikumid **teisipäeviti kell 16:15** ja **neljapäeviti kell 8:15 (I rühm)/16:15 (mikrokraad)**  
-	* I rühm nädalatel 1 - 5
-	* Mikrokraadi rühm nädalatel 1 - 5
-	* II rühm nädalatel 9 - 13
+* Praktikumid 
+	* I rühm **teisipäeviti kell 16:15 ja neljapäeviti kell 08:15** (nädalad 1 - 5).
+   	* II rühm **kolmapäeviti ja neljapäeviti kell 08:15** (nädalad 1 - 6).
+   	* III rühm **teisipäviti kell 16:15 ja neljapäeviti kell 08:15** (nädalad 9 - 13).
+	* Mikrokraadi rühm **esmaspäeviti ja kolmapäeviti kell 16:15** (nädalad 1 - 6).
 * **Projektide tähtaeg**:
-	* I rühm (aeg täpsustamisel) (nädal 7?).
-	* Mikrokraadi rühm (aeg täpsustamisel) (nädal 7?).
-	* II rühm 17.12.23
+	* I rühm TBA.
+ 	* II rühm TBA.
+  	* III rühm TBA.	 	
+	* Mikrokraadi rühm TBA.
 * **Projektide ettekandmine**:
-	* I rühm  (aeg täpsustamisel).
-	* Mikrokraadi rühm (aeg täpsustamisel)
-	* II rühm 21.12.23.
-
+	* I rühm  TBA.
+  	* II rühm TBA.
+  	* III rühm TBA.
+	* Mikrokraadi rühm TBA.
 <br/>
 
 # Kontakt ja küsimused
 
-* I rühm - Willem Klaassen willem.klaassen [at] ut.ee
-* II rühm - (täpsustamisel).
-* Mikrokraadiprogramm - Kaari Kuus kaari.kuus [at] ut.ee
+* I rühm - Rait Robert Suurmets rait.robert.suurmets[at]ut.ee
+* II rühm - Mihkel Jüri Pius mihkel.juri.pius[at]ut.ee
+* III rühm - Joonas-Sander Tamm joonas-sander.tamm[at]ut.ee
+* Mikrokraadiprogramm - Saskia Kuusk saskia.kuusk[at] ut.ee
