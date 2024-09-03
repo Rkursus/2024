@@ -86,11 +86,13 @@ Aine läbimiseks on vaja:
  	* II rühm **kolmapäeviti ja neljapäeviti kell 08:15** (nädalad 1 - 6).
   	* III rühm **teisipäviti kell 16:15 ja neljapäeviti kell 08:15** (nädalad 9 - 13).
   	* Mikrokraadi rühm **esmaspäeviti ja kolmapäeviti kell 16:15** (nädalad 1 - 6).
+
 * **Projektide tähtaeg**:
 	+ I rühm TBA.
- + II rühm TBA.
+ 	+ II rühm TBA.
   	+ III rühm TBA.
   	+ Mikrokraadi rühm TBA.
+
 * **Projektide ettekandmine**:
 	* I rühm  TBA.
  	* II rühm TBA.
