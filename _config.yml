@@ -5,11 +5,11 @@
 theme:            jekyll-theme-minimal
 
 # Setup
-title:            "Rakendustarkvara: R, 2023 sügis"
+title:            "Rakendustarkvara: R, 2024 sügis"
 tagline:          LTMS.00.016
 url:              http://rkursus.github.io/
 paginate:         1
-baseurl:          /2023
+baseurl:          /2024
 author:
   name:           Anne Selart
   url:            
@@ -18,7 +18,7 @@ author:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           http://rkursus.github.io/2023
+  repo:           http://rkursus.github.io/2024
 
 pages_list:       
   Praktikumid: '/praktikumid'
