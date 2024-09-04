@@ -91,7 +91,7 @@ Aine läbimiseks on vaja:
 	* I rühm TBA.
 	* II rühm TBA.
 	* III rühm TBA.
-   	* Mikrokraadi rühm TBA.
+	* Mikrokraadi rühm TBA.
 
 * **Projektide ettekandmine**:
 	* I rühm  TBA.
