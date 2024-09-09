@@ -26,7 +26,7 @@ Andmete importimine, väärtustetüübid ja teisendused, lisapakettide kasutamin
 		* I rühm - TBA.
 		* II rühm - TBA.
 		* III rühm - TBA.
-		* Mikrokraadi rühm - TBA.
+		* Mikrokraadi rühm - **18.09.24 kell 23:59.**
 
 
 ## Praktikum 3
