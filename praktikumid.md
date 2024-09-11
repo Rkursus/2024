@@ -23,8 +23,8 @@ Andmete importimine, väärtustetüübid ja teisendused, lisapakettide kasutamin
 * [RStudio snipetid](https://github.com/Rkursus/2023/raw/master/RStudio_snippetid.txt)
 * Kodutöö I <!-- [Kodutöö](praktikum2_kodutoo.md)-->
     * Tähtaeg:
-		* I rühm - TBA.
-		* II rühm - TBA.
+		* I rühm - **15.09.24 kell 23:59**
+		* II rühm - **22.09.24 kell 23:59**
 		* III rühm - TBA.
 		* Mikrokraadi rühm - **18.09.24 kell 23:59.**
 
@@ -47,8 +47,8 @@ Andmestike ühendamine, unikaalsed ja mitmekordsed elemendid, andmete sorteerimi
 * [Praktikumi R kood](https://github.com/Rkursus/2023/raw/master/_praktikum4/praktikum4_kood.R)
 * Kodutöö II <!--[Kodutöö](praktikum4_kodutoo.md)-->
     * Tähtaeg:
-		* I rühm - TBA.
-		* II rühm - TBA.
+		* I rühm - **22.09.24 kell 23:59**
+		* II rühm - **29.09.24 kell 23:59**
 		* III rühm - TBA.
 		* Mikrokraadi rühm - TBA.
 
