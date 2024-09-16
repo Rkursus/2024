@@ -105,4 +105,4 @@ Aine läbimiseks on vaja:
 * I rühm - Rait Robert Suurmets rait.robert.suurmets[at]ut.ee
 * II rühm - Mihkel Jüri Pius mihkel.juri.pius[at]ut.ee
 * III rühm - Joonas-Sander Tamm joonas-sander.tamm[at]ut.ee
-* Mikrokraadiprogramm - Saskia Kuusk saskia.kuusk[at] ut.ee
+* Mikrokraadiprogramm - Saskia Kuusk saskia.kuusk[at]ut.ee
