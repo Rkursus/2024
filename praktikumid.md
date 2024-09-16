@@ -50,7 +50,7 @@ Andmestike ühendamine, unikaalsed ja mitmekordsed elemendid, andmete sorteerimi
 		* I rühm - **22.09.24 kell 23:59**
 		* II rühm - **29.09.24 kell 23:59**
 		* III rühm - TBA.
-		* Mikrokraadi rühm - TBA.
+		* Mikrokraadi rühm - **25.09.2024 kell 23:59**
 
 ## Praktikum 5
 
