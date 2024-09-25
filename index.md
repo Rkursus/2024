@@ -91,13 +91,13 @@ Aine läbimiseks on vaja:
 	* I rühm TBA.
 	* II rühm TBA.
 	* III rühm TBA.
-	* Mikrokraadi rühm TBA.
+	* Mikrokraadi rühm **04.11.24 kell 23:59.**
 
 * **Projektide ettekandmine**:
 	* I rühm  TBA.
 	* II rühm TBA.
 	* III rühm TBA.
-	* Mikrokraadi rühm TBA.
+	* Mikrokraadi rühm **11.04.24 kell 16:15 Zoom/Delta (täpsustamisel).**
 <br/>
 
 # Kontakt ja küsimused
