@@ -10,7 +10,7 @@ layout: page
 - **I rühm**:   TBA.
 - **II rühm**:  TBA.
 - **III rühm**:  TBA.
-- **Mikrokraadiprogramm**:   TBA.
+- **Mikrokraadiprogramm**:   04.11.24 kell 23:59.
 
 Projektid esitage Moodle keskkonna kaudu. Kõikides saadetud töö failide nimedes peab kajastuma tudengi(te) nimi.
 
