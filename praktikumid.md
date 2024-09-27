@@ -96,10 +96,10 @@ Töötamine kuupäevadega ja sõnetöötlus paketiga `stringr`.
 * [Praktikumi R kood](https://github.com/Rkursus/2023/raw/master/_praktikum8/praktikum8_kood.R)
 * Kodutöö IV <!--[Kodutöö](praktikum8_kodutoo.md)-->
     * Tähtaeg:
-		* I rühm - TBA.
-		* II rühm - TBA.
+		* I rühm - **06.10.2024 kell 23:59**
+		* II rühm - **13.10.2024 kell 23:59**
 		* III rühm - TBA.
-		* Mikrokraadi rühm - TBA.
+		* Mikrokraadi rühm - **09.10.2024 kell 23:59**
 	
 
 ## Praktikum 9
@@ -122,10 +122,10 @@ Tulemuste vormistamine pakettidega `knitr` ja `rmarkdown`.
 * [Praktikumi R kood](https://github.com/Rkursus/2023/raw/master/_praktikum10/praktikum10_kood.Rmd)
 * Kodutöö V <!--[Kodutöö](praktikum10_kodutoo.md)-->
     * Tähtaeg:
-		* I rühm - TBA.
-		* II rühm - TBA.
+		* I rühm - **13.10.2024 kell 23:59**
+		* II rühm - **20.10.2024 kell 23:59**
 		* III rühm - TBA.
-		* Mikrokraadi rühm - TBA.
+		* Mikrokraadi rühm - **16.10.2024 kell 23:59**
 		
 		
 ## Lisamaterjali:
