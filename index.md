@@ -88,8 +88,8 @@ Aine läbimiseks on vaja:
 	* Mikrokraadi rühm **esmaspäeviti ja kolmapäeviti kell 16:15** (nädalad 1-6). 
 
 * **Projektide tähtaeg**:
-	* I rühm TBA.
-	* II rühm TBA.
+	* I rühm **27.10.24 kell 23:59.**
+	* II rühm **27.10.24 kell 23:59.**
 	* III rühm TBA.
 	* Mikrokraadi rühm **04.11.24 kell 23:59.**
 
