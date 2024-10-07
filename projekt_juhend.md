@@ -7,8 +7,8 @@ layout: page
 
 **Projekt tuleb esitada hiljemalt**
 
-- **I rühm**:   TBA.
-- **II rühm**:  TBA.
+- **I rühm**:   27.10.24 kell 23:59.
+- **II rühm**:  27.10.24 kell 23:59.
 - **III rühm**:  TBA.
 - **Mikrokraadiprogramm**:   04.11.24 kell 23:59.
 
