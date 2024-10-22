@@ -25,7 +25,7 @@ Andmete importimine, väärtustetüübid ja teisendused, lisapakettide kasutamin
     * Tähtaeg:
 		* I rühm - **15.09.24 kell 23:59**
 		* II rühm - **22.09.24 kell 23:59**
-		* III rühm - TBA.
+		* III rühm - **10.11.2024 kell 23:59**.
 		* Mikrokraadi rühm - **18.09.24 kell 23:59.**
 
 
@@ -49,7 +49,7 @@ Andmestike ühendamine, unikaalsed ja mitmekordsed elemendid, andmete sorteerimi
     * Tähtaeg:
 		* I rühm - **22.09.24 kell 23:59**
 		* II rühm - **29.09.24 kell 23:59**
-		* III rühm - TBA.
+		* III rühm - **17.11.2024 kell 23:59**.
 		* Mikrokraadi rühm - **25.09.2024 kell 23:59**
 
 ## Praktikum 5
@@ -75,7 +75,7 @@ Joonised `ggplot2`-ga jätkub - joonisele kihtide lisamine, skaalade muutmine, j
     * Tähtaeg:
 		* I rühm - **29.09.2024 kell 23:59**
 		* II rühm - **06.10.2024 kell 23:59**
-		* III rühm - TBA.
+		* III rühm - **24.11.2024 kell 23:59**.
 		* Mikrokraadi rühm - **02.10.2024 kell 23:59**
 
 ## Praktikum 7
@@ -98,7 +98,7 @@ Töötamine kuupäevadega ja sõnetöötlus paketiga `stringr`.
     * Tähtaeg:
 		* I rühm - **06.10.2024 kell 23:59**
 		* II rühm - **13.10.2024 kell 23:59**
-		* III rühm - TBA.
+		* III rühm - **01.12.2024 kell 23:59**.
 		* Mikrokraadi rühm - **09.10.2024 kell 23:59**
 	
 
@@ -124,7 +124,7 @@ Tulemuste vormistamine pakettidega `knitr` ja `rmarkdown`.
     * Tähtaeg:
 		* I rühm - **13.10.2024 kell 23:59**
 		* II rühm - **20.10.2024 kell 23:59**
-		* III rühm - TBA.
+		* III rühm - **08.12.2024 kell 23:59**.
 		* Mikrokraadi rühm - **16.10.2024 kell 23:59**
 		
 		
