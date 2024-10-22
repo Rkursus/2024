@@ -90,7 +90,7 @@ Aine läbimiseks on vaja:
 * **Projektide tähtaeg**:
 	* I rühm **27.10.24 kell 23:59.**
 	* II rühm **27.10.24 kell 23:59.**
-	* III rühm TBA.
+	* III rühm **01.12.24 kell 23:59**.
 	* Mikrokraadi rühm **04.11.24 kell 23:59.**
 
 * **Projektide ettekandmine**:
