@@ -97,7 +97,7 @@ Aine läbimiseks on vaja:
 	* I rühm  TBA.
 	* II rühm TBA.
 	* III rühm **06.01.25 ja 14.01.25 kell 10:00-14:00 (Klassiruum 2030)**.
-	* Mikrokraadi rühm **11.04.24 kell 16:15 Zoom/Delta (täpsustamisel).**
+	* Mikrokraadi rühm **11.11.24 kell 16:15 Delta ruum 1026 (Zoomi võimalus vajajatele).**
 <br/>
 
 # Kontakt ja küsimused
