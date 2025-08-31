@@ -52,7 +52,7 @@ Kursus on mõeldud statistikahuvilistele üliõpilastele, kes pole varem tarkvar
 Lisaks praktikumidele sisaldab õppeaine järgnevaid komponente:
 
 * **Kodutööd:** Kokku antakse 5 kodutööd (iga nädal üks). 
-  * Kodutöö võib seisneda [DataCamp](https://www.datacamp.com)  veebikeskkonnas erinevate kursuste läbimises või ülesande lahenduskoodi (+ selgitavate kommentaaride) kirjutamises ja faili esitamises läbi Moodle. 
+  * Kodutöö seisneb ülesande lahenduskoodi (+ selgitavate kommentaaride) kirjutamises ja faili esitamises läbi Moodle. 
   * Kodutöö ülesanded tuleb lahendada vastavalt etteantud tähtajale.
 * **Projekt:** Lisaks tuleb läbi viia üks praktiline projekt vabalt valitud andmestiku peal. Projektitöö eesmärgiks on näidata, kuivõrd on tudeng omandanud oskused kasutada R-i andmete töötlemiseks. Samuti oskust R-ga analüüside tulemusi vormistada (nt. joonised).
   * Projekti tuleb teha kahestes meeskondades, kuid võib ka üksinda. 
@@ -82,27 +82,27 @@ Aine läbimiseks on vaja:
 Õppeaine toimub 2024/2025. õppeaasta sügissemestril. 
 
 * Praktikumid
-	* I rühm **teisipäeviti kell 16:15 ja neljapäeviti kell 08:15** (nädalad 1-5).
-	* II rühm **kolmapäeviti ja neljapäeviti kell 08:15** (nädalad 1-6).
-	* III rühm **teisipäviti kell 16:15 ja neljapäeviti kell 08:15** (nädalad 9-13).
-	* Mikrokraadi rühm **esmaspäeviti ja kolmapäeviti kell 16:15** (nädalad 1-6). 
+	* I rühm **esmaspäeviti kell 14:15 ja neljapäeviti kell 08:30** (nädalad 1-6).
+	* II rühm **esmaspäeviti ja reedeti kell 10:15** (nädalad 1-6).
+	* III rühm **esmaspäeviti kell 10:15 ja kolmapäeviti kell 08:15** (nädalad 9-13).
+	* Mikrokraadi rühm **esmaspäeviti kell 16:15 ja kolmapäeviti kell 14:15** (nädalad 1-6). 
 
 * **Projektide tähtaeg**:
-	* I rühm **27.10.24 kell 23:59.**
-	* II rühm **27.10.24 kell 23:59.**
-	* III rühm **01.12.24 kell 23:59**.
-	* Mikrokraadi rühm **04.11.24 kell 23:59.**
+	* I rühm TBA.
+	* II rühm TBA.
+	* III rühm TBA.
+	* Mikrokraadi rühm TBA.
 
 * **Projektide ettekandmine**:
 	* I rühm  TBA.
 	* II rühm TBA.
-	* III rühm **06.01.25 ja 14.01.25 kell 10:00-14:00 (Klassiruum 2030)**.
-	* Mikrokraadi rühm **11.11.24 kell 18:00 Delta ruum 1026 (Zoomi võimalus vajajatele).**
+	* III rühm TBA.
+	* Mikrokraadi rühm TBA.
 <br/>
 
 # Kontakt ja küsimused
 
-* I rühm - Rait Robert Suurmets rait.robert.suurmets[at]ut.ee
+* I rühm - Merli Koitmäe merli.koitmae[at]ut.ee
 * II rühm - Mihkel Jüri Pius mihkel.juri.pius[at]ut.ee
-* III rühm - Joonas-Sander Tamm joonas-sander.tamm[at]ut.ee
-* Mikrokraadiprogramm - Saskia Kuusk saskia.kuusk[at]ut.ee
+* III rühm - Karmel Teder karmel.teder[at]ut.ee
+* Mikrokraadiprogramm - Marleen Mändul marleen.mandul[at]ut.ee
