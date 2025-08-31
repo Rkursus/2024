@@ -23,10 +23,9 @@ Andmete importimine, väärtustetüübid ja teisendused, lisapakettide kasutamin
 * [RStudio snipetid](https://github.com/Rkursus/2023/raw/master/RStudio_snippetid.txt)
 * Kodutöö I <!-- [Kodutöö](praktikum2_kodutoo.md)-->
     * Tähtaeg:
-		* I rühm - **15.09.24 kell 23:59**
-		* II rühm - **22.09.24 kell 23:59**
-		* III rühm - **10.11.2024 kell 23:59**.
-		* Mikrokraadi rühm - **18.09.24 kell 23:59.**
+		* I rühm, II rühm - **14.09.25 kell 23:59**
+		* III rühm - TBA.
+		* Mikrokraadi rühm - **14.09.25 kell 23:59.**
 
 
 ## Praktikum 3
@@ -47,10 +46,9 @@ Andmestike ühendamine, unikaalsed ja mitmekordsed elemendid, andmete sorteerimi
 * [Praktikumi R kood](https://github.com/Rkursus/2023/raw/master/_praktikum4/praktikum4_kood.R)
 * Kodutöö II <!--[Kodutöö](praktikum4_kodutoo.md)-->
     * Tähtaeg:
-		* I rühm - **22.09.24 kell 23:59**
-		* II rühm - **29.09.24 kell 23:59**
-		* III rühm - **17.11.2024 kell 23:59**.
-		* Mikrokraadi rühm - **25.09.2024 kell 23:59**
+		* I rühm, II rühm - **21.09.25 kell 23:59**
+		* III rühm - TBA.
+		* Mikrokraadi rühm - **21.09.25 kell 23:59.**
 
 ## Praktikum 5
 
@@ -73,10 +71,9 @@ Joonised `ggplot2`-ga jätkub - joonisele kihtide lisamine, skaalade muutmine, j
 * [Praktikumi R kood](https://github.com/Rkursus/2023/raw/master/_praktikum6/praktikum6_kood.R)
 * Kodutöö III <!--Kodutöö](praktikum6_kodutoo.md)-->
     * Tähtaeg:
-		* I rühm - **29.09.2024 kell 23:59**
-		* II rühm - **06.10.2024 kell 23:59**
-		* III rühm - **24.11.2024 kell 23:59**.
-		* Mikrokraadi rühm - **02.10.2024 kell 23:59**
+		* I rühm, II rühm - **28.09.25 kell 23:59**
+		* III rühm - TBA.
+		* Mikrokraadi rühm - **28.09.25 kell 23:59.**
 
 ## Praktikum 7
 
@@ -96,10 +93,9 @@ Töötamine kuupäevadega ja sõnetöötlus paketiga `stringr`.
 * [Praktikumi R kood](https://github.com/Rkursus/2023/raw/master/_praktikum8/praktikum8_kood.R)
 * Kodutöö IV <!--[Kodutöö](praktikum8_kodutoo.md)-->
     * Tähtaeg:
-		* I rühm - **06.10.2024 kell 23:59**
-		* II rühm - **13.10.2024 kell 23:59**
-		* III rühm - **01.12.2024 kell 23:59**.
-		* Mikrokraadi rühm - **09.10.2024 kell 23:59**
+		* I rühm, II rühm - **05.10.25 kell 23:59**
+		* III rühm - TBA.
+		* Mikrokraadi rühm - **05.10.25 kell 23:59.**
 	
 
 ## Praktikum 9
@@ -122,10 +118,9 @@ Tulemuste vormistamine pakettidega `knitr` ja `rmarkdown`.
 * [Praktikumi R kood](https://github.com/Rkursus/2023/raw/master/_praktikum10/praktikum10_kood.Rmd)
 * Kodutöö V <!--[Kodutöö](praktikum10_kodutoo.md)-->
     * Tähtaeg:
-		* I rühm - **13.10.2024 kell 23:59**
-		* II rühm - **20.10.2024 kell 23:59**
-		* III rühm - **08.12.2024 kell 23:59**.
-		* Mikrokraadi rühm - **16.10.2024 kell 23:59**
+		* I rühm, II rühm - **12.10.25 kell 23:59**
+		* III rühm - TBA.
+		* Mikrokraadi rühm - **12.10.25 kell 23:59.**
 		
 		
 ## Lisamaterjali:
