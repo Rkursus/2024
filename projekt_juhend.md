@@ -7,10 +7,10 @@ layout: page
 
 **Projekt tuleb esitada hiljemalt**
 
-- **I rühm**:   27.10.24 kell 23:59.
-- **II rühm**:  27.10.24 kell 23:59.
-- **III rühm**:  31.12.24 kell 23:59
-- **Mikrokraadiprogramm**:   04.11.24 kell 23:59.
+- **I rühm**:   TBA.
+- **II rühm**:  TBA.
+- **III rühm**:  TBA.
+- **Mikrokraadiprogramm**:   TBA.
 
 Projektid esitage Moodle keskkonna kaudu. Kõikides saadetud töö failide nimedes peab kajastuma tudengi(te) nimi.
 
