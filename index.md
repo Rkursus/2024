@@ -30,7 +30,7 @@ Aine läbinud üliõpilane:
 Miks just R tarkvara?
 
 * R on programmeerimiskeel ja -keskkond, mis on peamiselt arendatud statistiliseks andmetöötluseks,
-* R-i kasutajaskond on viimase kümmekonna aasta jooksul [oluliselt kasvanud](r4stats.com/articles/popularity/) ülikoolides ja ettevõtetes,
+* R-i kasutajaskond on viimase kümmekonna aasta jooksul [oluliselt kasvanud](https://r4stats.com/articles/popularity/) ülikoolides ja ettevõtetes,
 * [R on vabavara](https://cran.r-project.org/),
 * R-ga käib kaasas [lai valik lisapakette](https://cran.r-project.org/web/packages/available_packages_by_name.html),
 * R võimaldab tänapäeval juba [palju enamat](https://www.google.com/search?q=r+possibilities) kui ainult andmetöötlus,
@@ -88,10 +88,10 @@ Aine läbimiseks on vaja:
 	* Mikrokraadi rühm **esmaspäeviti kell 16:15 ja kolmapäeviti kell 14:15** (nädalad 1-6). 
 
 * **Projektide tähtaeg**:
-	* I rühm TBA.
-	* II rühm TBA.
+	* I rühm **31. oktoober**.
+	* II rühm **31. oktoober**.
 	* III rühm TBA.
-	* Mikrokraadi rühm TBA.
+	* Mikrokraadi rühm **31. oktoober**.
 
 * **Projektide ettekandmine**:
 	* I rühm  TBA.
