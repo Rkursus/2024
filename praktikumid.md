@@ -128,7 +128,7 @@ Tulemuste vormistamine pakettidega `knitr` ja `rmarkdown`.
 * [R for cats](https://rforcats.net/)
 * [R Reference card](https://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf) - lühikogum R-i peamistest käskudest
 * [MTMS.01.100 Statistiline andmeteadus ja visualiseerimine](https://andmeteadus.github.io/2023/) - praeguse R kursuse jätkukursus.
-* Hulk [RStudio soovitatud raamatuid](https://rstudio.com/resources/books/) (mitmed tasuta _online_ versioonidega).
+* Hulk [RStudio soovitatud raamatuid](https://resources.rstudio.com/resources/books/) (mitmed tasuta _online_ versioonidega).
 * [R-bloggers](https://www.r-bloggers.com/) - Blogi huvitavatest R-i rakendustest.
 * [Simply Statistics](https://simplystatistics.org/) - Huvitav R-i blogi.
 
