@@ -17,13 +17,13 @@ Mitte nii hea näide projektitööst: on esitatud palju käske, mille järele si
 
 ## Andmestikke projekti jaoks
 
-* [Eesti avaandmete portaal (andmestikud Eesti kohta)](https://opendata.riik.ee/andmehulgad/)
+* [Eesti avaandmete portaal (andmestikud Eesti kohta)](https://andmed.eesti.ee/)
 * [Tallinna linna avaandmed](http://avaandmed.tallinn.ee/)
 * [Eurobaromeeter. Üle-Euroopalised küsitlusuuringud. Andmed on vabalt kättesaadavad (kuid eeldavad kasutajakonto tegemist)](https://www.gesis.org/eurobarometer-data-service/search-data-access/eb-trends-trend-files/list-of-trends/)
 * [Eesti Konjunktuuriinstituudi indikaatorid majanduskindluse ja tuleviku väljavaadete kohta](http://ki.ee/baromeetrid/)
-* [Tervise Arengu Instituut](http://pxweb.tai.ee/esf/pxweb2008/dialog/statfile2.asp)
-* [Statistikaamet](http://pub.stat.ee/px-web.2001/dialog/statfile2.asp)
-* [Euroopa Sotsiaaluuring](https://www.europeansocialsurvey.org/data/country.html?c=estonia)
+* [Tervise Arengu Instituut](https://statistika.tai.ee/pxweb/et/Andmebaas/)
+* [Statistikaamet](https://andmed.stat.ee/et/stat)
+* [Euroopa Sotsiaaluuring](https://www.europeansocialsurvey.org/data-portal)
 * [Hulk avalikult kättesaadavaid andmestikke (UC Irvine Machine Learning Repository)](https://archive.ics.uci.edu/ml/index.php)
 * [Hulk avalikult kättesaadavaid andmestikke (Kaggle)](https://www.kaggle.com/datasets)
 * [Hulk avalikult kättesaadavaid andmestikke (Amazon Registry of Open Data)](https://registry.opendata.aws/)
