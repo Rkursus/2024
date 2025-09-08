@@ -7,10 +7,10 @@ layout: page
 
 **Projekt tuleb esitada hiljemalt**
 
-- **I rühm**:   TBA.
-- **II rühm**:  TBA.
+- **I rühm**:   **31. oktoober**.
+- **II rühm**:  **31. oktoober**.
 - **III rühm**:  TBA.
-- **Mikrokraadiprogramm**:   TBA.
+- **Mikrokraadiprogramm**:   **31. oktoober**.
 
 Projektid esitage Moodle keskkonna kaudu. Kõikides saadetud töö failide nimedes peab kajastuma tudengi(te) nimi.
 
@@ -24,7 +24,7 @@ Sobilik on näiteks kirjeldava analüüsi läbiviimine mõnel andmestikul. Kirje
 
 ## Andmestik
 
-Projektis kasutage oma andmestikku või otsige internetist midagi sobivat (vt. nt. [www.data.gov](https://www.data.gov/), [data.gov.uk](https://data.gov.uk/), [www.europeansocialsurvey.org](https://www.europeansocialsurvey.org/data/country.html?c=estonia) *guugelda* "sample datasets" jne). Andmete päritolu tuleb töös viidata.
+Projektis kasutage oma andmestikku või otsige internetist midagi sobivat (vt. nt. [www.data.gov](https://www.data.gov/), [data.gov.uk](https://data.gov.uk/), [www.europeansocialsurvey.org](https://www.europeansocialsurvey.org/data-portal) *guugelda* "sample datasets" jne). Andmete päritolu tuleb töös viidata.
 
 **NB! Andmestik peaks kindlasti sisaldama: **
 
