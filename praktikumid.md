@@ -24,7 +24,7 @@ Andmete importimine, väärtustetüübid ja teisendused, lisapakettide kasutamin
 * Kodutöö I <!-- [Kodutöö](praktikum2_kodutoo.md)-->
     * Tähtaeg:
 		* I rühm, II rühm - **14.09.25 kell 23:59**
-		* III rühm - TBA.
+		* III rühm - **04.11.25 kell 23:59**.
 		* Mikrokraadi rühm - **14.09.25 kell 23:59.**
 
 
@@ -47,7 +47,7 @@ Andmestike ühendamine, unikaalsed ja mitmekordsed elemendid, andmete sorteerimi
 * Kodutöö II <!--[Kodutöö](praktikum4_kodutoo.md)-->
     * Tähtaeg:
 		* I rühm, II rühm - **21.09.25 kell 23:59**
-		* III rühm - TBA.
+		* III rühm - **11.11.25 kell 23:59**.
 		* Mikrokraadi rühm - **21.09.25 kell 23:59.**
 
 ## Praktikum 5
@@ -72,7 +72,7 @@ Joonised `ggplot2`-ga jätkub - joonisele kihtide lisamine, skaalade muutmine, j
 * Kodutöö III <!--Kodutöö](praktikum6_kodutoo.md)-->
     * Tähtaeg:
 		* I rühm, II rühm - **28.09.25 kell 23:59**
-		* III rühm - TBA.
+		* III rühm - **18.11.25 kell 23:59**.
 		* Mikrokraadi rühm - **28.09.25 kell 23:59.**
 
 ## Praktikum 7
@@ -94,7 +94,7 @@ Töötamine kuupäevadega ja sõnetöötlus paketiga `stringr`.
 * Kodutöö IV <!--[Kodutöö](praktikum8_kodutoo.md)-->
     * Tähtaeg:
 		* I rühm, II rühm - **05.10.25 kell 23:59**
-		* III rühm - TBA.
+		* III rühm - **25.11.25 kell 23:59**.
 		* Mikrokraadi rühm - **05.10.25 kell 23:59.**
 	
 
@@ -119,7 +119,7 @@ Tulemuste vormistamine pakettidega `knitr` ja `rmarkdown`.
 * Kodutöö V <!--[Kodutöö](praktikum10_kodutoo.md)-->
     * Tähtaeg:
 		* I rühm, II rühm - **12.10.25 kell 23:59**
-		* III rühm - TBA.
+		* III rühm - **02.12.25 kell 23:59**.
 		* Mikrokraadi rühm - **12.10.25 kell 23:59.**
 		
 		
