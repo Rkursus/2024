@@ -9,7 +9,7 @@ layout: page
 
 - **I rühm**:   **31. oktoober**.
 - **II rühm**:  **31. oktoober**.
-- **III rühm**:  TBA.
+- **III rühm**:  **9. detsember**.
 - **Mikrokraadiprogramm**:   **31. oktoober**.
 
 Projektid esitage Moodle keskkonna kaudu. Kõikides saadetud töö failide nimedes peab kajastuma tudengi(te) nimi.
